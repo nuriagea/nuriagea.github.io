@@ -1,6 +1,6 @@
 remote_theme: daattali/beautiful-jekyll@6.0.1
-title: My website
-author: Nuria Gea
+title: Tu abuelita de confiaza
+author: Maria Antonia de la Cruz
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -9,8 +9,8 @@ author: Nuria Gea
 # For each link, make sure to create a corresponding markdown file in the root folder (like `aboutme.md`)
 
 navbar-links:
-  About Me: "aboutme"
-  Example Page: "example"
+  About Me:Estimo a els meus nets
+  Example Page: La meva neta em va fer un retrat
 
 ################
 # --- Logo --- #
@@ -36,12 +36,12 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "homer.simpson@gmail.com"
-  facebook: homer.simpson
-  github: homer.simpson
-  twitter: "@homeeer"
-  youtube: "@homer.simpson"
-  linkedin: homer.simpson
+  email: "mariaantonia@gmail.com"
+  facebook: marialaguapa
+  github: mariaantonia amb amor
+  twitter: "no tinc"
+  youtube: "me gusta los youtube shorts de mi nieto"
+  linkedin: que es aixo?
   whatsapp: "34666666666"  # Afegeix el teu número aquí (codi país + número)
 
 #  xing: yourname
@@ -80,7 +80,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "homersimpson.github.io"
+url-pretty: "mariaantonia.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
